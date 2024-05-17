@@ -1,0 +1,24 @@
+Certainly! Below are instructions for your two-player tennis game, where player movements are controlled using W, A, S, D keys for one player and arrow keys for the other. The ball becomes visible when the space bar is pressed:
+
+---
+
+# Tennis Game Instructions
+
+## Welcome to the Tennis Game!
+
+### Player Controls:
+
+- **Player 1 Controls:**
+  - Move Up: W
+  - Move Down: S
+  - Move Left: A
+  - Move Right: D
+
+- **Player 2 Controls:**
+  - Move Up: Up Arrow
+  - Move Down: Down Arrow
+  - Move Left: Left Arrow
+  - Move Right: Right Arrow
+
+### Ball:
+  - for now ball will be visible on pressing space bar, further logic isnt implemented yet.
